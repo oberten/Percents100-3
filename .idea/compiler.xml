@@ -7,10 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Percents100-3" />
+        <module name="Precents100-3" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Precents100-3" target="11" />
-    </bytecodeTargetLevel>
   </component>
 </project>
